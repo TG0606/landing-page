@@ -147,8 +147,8 @@ nav > ul > li {
 }
 
 #how-it-works > iframe {
-  max-width: 560px;
-  width: 100%;
+  width: 560px;
+  height: 315px;
 }
 
 #pricing {
@@ -275,6 +275,10 @@ footer > span {
 
   #features {
     margin-top: 0;
+  }
+
+  #how-it-works > iframe {
+    width: 100%;
   }
 }
 
